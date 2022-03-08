@@ -2,7 +2,7 @@
 
 - 💻 Cursando Sistemas de Informação.
 - 🔭 Hoje estou em busca de uma vaga de estágio em Front End.
-- 🌱 Estudando HTML/CSS no momento.
+- 🌱 Estudando HTML/CSS/JavaScript no momento.
 
 <div align="center">
   <a href="https://github.com/MatheusJanke">
